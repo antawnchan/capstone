@@ -1,0 +1,83 @@
+Date,Opponent,Spread,Over_Under,Team_Score,Opponent_Score
+Oct 26,Boston Celtics,11.5,212,117,122
+Oct 28,Indiana Pacers,6,219,103,94
+Oct 29,Milwaukee Bucks,8,205,108,110
+Oct 31,Chicago Bulls,6,209.5,88,118
+Nov 2,Detroit Pistons,4,204,109,101
+Nov 4,Charlotte Hornets,6.5,203,95,99
+Nov 8,Minnesota Timberwolves,4,209,119,110
+Nov 9,New York Knicks,8,215.5,96,110
+Nov 12,Phoenix Suns,5,219,122,104
+Nov 14,Los Angeles Clippers,16.5,212,95,127
+Nov 15,Los Angeles Lakers,7,219,118,125
+Nov 18,Oklahoma City Thunder,9.5,216.5,105,124
+Nov 20,Portland Trail Blazers,4.5,219.5,109,129
+Nov 23,Boston Celtics,7.5,215,92,111
+Nov 25,Indiana Pacers,5.5,213.5,97,118
+Nov 27,Sacramento Kings,5,219.5,105,122
+Nov 29,Los Angeles Clippers,11,212.5,127,122
+Dec 1,Milwaukee Bucks,5.5,215,93,111
+Dec 3,Milwaukee Bucks,10,214.5,103,112
+Dec 5,Washington Wizards,6.5,218.5,113,118
+Dec 7,Denver Nuggets,4.5,221.5,116,111
+Dec 10,San Antonio Spurs,16,210,101,130
+Dec 12,Houston Rockets,13.5,229.5,118,122
+Dec 14,Los Angeles Lakers,1,228.5,107,97
+Dec 16,Orlando Magic,7,217,111,118
+Dec 18,Philadelphia 76ers,1.5,215.5,107,108
+Dec 20,Toronto Raptors,15.5,224,104,116
+Dec 22,Golden State Warriors,13.5,231,101,117
+Dec 23,Cleveland Cavaliers,16.5,225.5,99,119
+Dec 26,Charlotte Hornets,6.5,217.5,120,118
+Dec 28,Chicago Bulls,9.5,213.5,99,101
+Dec 30,Washington Wizards,7.5,219.5,95,118
+Jan 2,Utah Jazz,6.5,206,89,101
+Jan 5,Indiana Pacers,10.5,219,109,121
+Jan 6,Cleveland Cavaliers,13,221,108,116
+Jan 8,Philadelphia 76ers,-1,216,95,105
+Jan 10,Atlanta Hawks,8.5,216.5,97,117
+Jan 12,New Orleans Pelicans,-2.5,214.5,95,104
+Jan 13,Toronto Raptors,15.5,225,113,132
+Jan 15,Houston Rockets,14,234.5,112,137
+Jan 17,Toronto Raptors,8.5,224.5,109,119
+Jan 20,New Orleans Pelicans,10,221.5,143,114
+Jan 21,Charlotte Hornets,12,222,105,112
+Jan 23,San Antonio Spurs,8.5,215,86,112
+Jan 25,Miami Heat,2.5,217.5,106,109
+Jan 27,Cleveland Cavaliers,17,226,116,124
+Jan 28,Minnesota Timberwolves,11,221,109,129
+Jan 30,Miami Heat,7.5,218.5,96,104
+Feb 1,New York Knicks,3,224.5,90,95
+Feb 3,Indiana Pacers,6.5,218.5,97,106
+Feb 5,Toronto Raptors,6.5,216,95,103
+Feb 7,Charlotte Hornets,10,219.5,107,111
+Feb 8,Washington Wizards,10,222,110,114
+Feb 10,Miami Heat,5.5,214,99,108
+Feb 13,Memphis Grizzlies,8.5,211,103,112
+Feb 15,Milwaukee Bucks,5,218.5,125,129
+Feb 24,Denver Nuggets,10,234.5,109,129
+Feb 25,Golden State Warriors,21,234.5,95,112
+Mar 1,Sacramento Kings,2.5,216,109,100
+Mar 3,Utah Jazz,12.5,206.5,97,112
+Mar 4,Portland Trail Blazers,10.5,224,116,130
+Mar 6,Memphis Grizzlies,10.5,213,122,109
+Mar 8,Atlanta Hawks,10,220,105,110
+Mar 10,Dallas Mavericks,10,212,96,105
+Mar 12,New York Knicks,-1,221,120,112
+Mar 14,Oklahoma City Thunder,6.5,226,104,122
+Mar 16,New York Knicks,5,222,121,110
+Mar 17,Boston Celtics,8.5,213,95,98
+Mar 19,Dallas Mavericks,5,207.5,104,111
+Mar 21,Detroit Pistons,5.5,215,98,96
+Mar 23,Phoenix Suns,-5.5,226.5,126,98
+Mar 24,Washington Wizards,10.5,221,108,129
+Mar 26,Atlanta Hawks,6.5,217,107,92
+Mar 28,Philadelphia 76ers,-4,224.5,101,106
+Mar 30,Detroit Pistons,6.5,214,89,90
+Apr 1,Orlando Magic,-4,222,121,111
+Apr 2,Atlanta Hawks,3,216,91,82
+Apr 4,Philadelphia 76ers,-2,221.5,141,118
+Apr 6,Orlando Magic,1,222,107,115
+Apr 8,Chicago Bulls,3.5,215,107,106
+Apr 10,Boston Celtics,11,222.5,105,114
+Apr 12,Chicago Bulls,14.5,212.5,73,112

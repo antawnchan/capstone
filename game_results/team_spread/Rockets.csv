@@ -1,0 +1,94 @@
+Date,Opponent,Spread,Over_Under,Team_Score,Opponent_Score
+Oct 26,Los Angeles Lakers,-6,224.5,114,120
+Oct 28,Dallas Mavericks,-2,218,106,98
+Oct 30,Dallas Mavericks,-4.5,215,93,92
+Nov 1,Cleveland Cavaliers,9.5,217,120,128
+Nov 2,New York Knicks,PK,218,118,99
+Nov 5,Atlanta Hawks,3,218,97,112
+Nov 7,Washington Wizards,1,218,114,106
+Nov 9,San Antonio Spurs,8.5,212,101,99
+Nov 12,San Antonio Spurs,1.5,208,100,106
+Nov 14,Philadelphia 76ers,-11.5,216,115,88
+Nov 16,Oklahoma City Thunder,2.5,219,103,105
+Nov 17,Portland Trail Blazers,-5,220.5,126,109
+Nov 19,Utah Jazz,-6.5,200.5,111,102
+Nov 21,Detroit Pistons,-2.5,209,99,96
+Nov 23,Toronto Raptors,-4,216.5,102,115
+Nov 25,Sacramento Kings,-3.5,216.5,117,104
+Nov 27,Portland Trail Blazers,-1.5,226.5,130,114
+Nov 29,Utah Jazz,-1.5,204.5,101,120
+Dec 1,Golden State Warriors,11.5,232.5,132,127
+Dec 2,Denver Nuggets,3.5,221,128,110
+Dec 5,Boston Celtics,-5.5,218,107,106
+Dec 7,Los Angeles Lakers,-13.5,222.5,134,95
+Dec 9,Oklahoma City Thunder,-1.5,224,102,99
+Dec 10,Dallas Mavericks,-12.5,209,109,87
+Dec 12,Brooklyn Nets,-13.5,229.5,122,118
+Dec 14,Sacramento Kings,-13.5,213,132,98
+Dec 16,New Orleans Pelicans,-12.5,224.5,122,100
+Dec 17,Minnesota Timberwolves,-3,220.5,111,109
+Dec 20,San Antonio Spurs,PK,214,100,102
+Dec 21,Phoenix Suns,-6.5,227.5,125,111
+Dec 23,Memphis Grizzlies,-3.5,205.5,109,115
+Dec 26,Phoenix Suns,-13,230,131,115
+Dec 27,Dallas Mavericks,-5,209,123,107
+Dec 30,Los Angeles Clippers,-10.5,217,140,116
+Dec 31,New York Knicks,-12.5,224.5,129,122
+Jan 2,Washington Wizards,-7.5,230.5,101,91
+Jan 5,Oklahoma City Thunder,-8,227.5,118,116
+Jan 6,Orlando Magic,-5,224,100,93
+Jan 8,Toronto Raptors,-2,227.5,129,122
+Jan 10,Charlotte Hornets,-9,227,121,114
+Jan 11,Minnesota Timberwolves,-3.5,218.5,105,119
+Jan 13,Memphis Grizzlies,-7.5,216,105,110
+Jan 15,Brooklyn Nets,-14,234.5,137,112
+Jan 17,Miami Heat,-7.5,221.5,103,109
+Jan 18,Milwaukee Bucks,-6.5,226,111,92
+Jan 20,Golden State Warriors,5.5,242,108,125
+Jan 21,Memphis Grizzlies,PK,215.5,119,95
+Jan 23,Milwaukee Bucks,-5,226.5,114,127
+Jan 25,Boston Celtics,-4,230,109,120
+Jan 27,Philadelphia 76ers,-7,221,123,118
+Jan 29,Indiana Pacers,-3.5,229,101,120
+Jan 31,Sacramento Kings,-12,225.5,105,83
+Feb 2,Atlanta Hawks,-9.5,226,108,113
+Feb 3,Chicago Bulls,-10,222,121,117
+Feb 7,Orlando Magic,-12,223.5,128,104
+Feb 9,Charlotte Hornets,-2.5,224.5,107,95
+Feb 11,Phoenix Suns,-16,233.5,133,102
+Feb 15,Miami Heat,-10,224.5,109,117
+Feb 23,New Orleans Pelicans,-3.5,230.5,129,99
+Feb 25,Minnesota Timberwolves,-12.5,229.5,142,130
+Feb 27,Indiana Pacers,-10,230.5,108,117
+Mar 1,Los Angeles Clippers,2.5,235.5,122,103
+Mar 4,Memphis Grizzlies,-8.5,222,123,108
+Mar 6,San Antonio Spurs,3.5,222,110,112
+Mar 8,Utah Jazz,-8.5,216,108,115
+Mar 10,Chicago Bulls,-6,223.5,115,94
+Mar 12,Cleveland Cavaliers,-7,236,117,112
+Mar 15,Los Angeles Lakers,-17.5,235,139,100
+Mar 17,New Orleans Pelicans,-6.5,228.5,112,128
+Mar 18,Denver Nuggets,-2.5,241,109,105
+Mar 20,Denver Nuggets,-8,238,125,124
+Mar 24,New Orleans Pelicans,-8,232,117,107
+Mar 26,Oklahoma City Thunder,-6,230.5,137,125
+Mar 28,Golden State Warriors,-1.5,235,106,113
+Mar 30,Portland Trail Blazers,PK,231,107,117
+Mar 31,Golden State Warriors,9,232,98,107
+Apr 2,Phoenix Suns,-7.5,227,123,116
+Apr 5,Denver Nuggets,-7.5,241.5,110,104
+Apr 7,Detroit Pistons,-11,224,109,114
+Apr 9,Sacramento Kings,-9,225.5,135,128
+Apr 10,Los Angeles Clippers,9.5,231,96,125
+Apr 12,Minnesota Timberwolves,-8.5,226.5,123,118
+Apr 16,Oklahoma City Thunder,-7.5,227.5,118,87
+Apr 19,Oklahoma City Thunder,-7.5,225.5,115,111
+Apr 21,Oklahoma City Thunder,2.5,224,113,115
+Apr 23,Oklahoma City Thunder,1,223.5,113,109
+Apr 25,Oklahoma City Thunder,-7.5,223.5,105,99
+May 1,San Antonio Spurs,6,215.5,126,99
+May 3,San Antonio Spurs,5.5,215,96,121
+May 5,San Antonio Spurs,-5.5,215,92,103
+May 7,San Antonio Spurs,-5,213.5,125,104
+May 9,San Antonio Spurs,5.5,216,107,110
+May 11,San Antonio Spurs,-9,210.5,75,114
